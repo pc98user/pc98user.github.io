@@ -18,3 +18,7 @@ PC-9801初代でPC-9801E/Fをエミュレートします。<br>
 ### hdd_boot
 PC-9801初代でフロッピーディスク(FD-IPLware)を用い、ハードディスクから起動させます。
 →[こちら](https://github.com/pc98user/hdd_boot)
+
+### 8087bench
+Intel 8087のベンチマークテストです。
+→[こちら](https://github.com/pc98user/8087bench)
