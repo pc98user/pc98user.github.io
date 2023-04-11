@@ -21,4 +21,5 @@ PC-9801初代でフロッピーディスク(FD-IPLware)を用い、ハードデ�
 
 ### 8087bench
 Intel 8087のベンチマークテストです。
-→[こちら](https://github.com/pc98user/8087bench)
+→[こちら](https://github.com/pc98user/8087bench)<br>
+・pc98equip関数の戻り値を表示
